@@ -1,3 +1,3 @@
 # Fibo-App
 
-React app to [ikfibos](https://github.com/FehPM/ikfibos)
+Simple React app to [ikfibos](https://github.com/FehPM/ikfibos)
